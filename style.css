@@ -18,10 +18,7 @@
 	
 }
 
-.container h4:hover{
-	color:blue;
-	cursor:pointer;
-}
+
 
 
 img{
@@ -32,10 +29,21 @@ img{
 	position:absolute;
 	right:0em;
 	padding:10px;
-	bottom:110px;
+	bottom:90px;
 	color:red;
 	font-size:23px;
+
 }
+
+
+
+
+.header :hover{
+	color:blue;
+	cursor:pointer;
+}
+
+
 
 
 .container p{
@@ -48,7 +56,7 @@ img{
 
 .icon{
 	position:absolute;
-	right:7em;
+	right:6.4em;
 	font-size:15px;
 	bottom:10px;
 }
@@ -78,7 +86,7 @@ img{
 	font-size:13px;
 }
 
-}
+
 
 
 
