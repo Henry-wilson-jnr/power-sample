@@ -1,0 +1,87 @@
+
+
+
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+.container{
+	background-color:white;
+	width:200px;
+	height:85vh;
+	box-shadow:0px 5px 9px 0px;
+	position:absolute;
+	right:10em;
+	top:3em;
+	
+}
+
+.container h4:hover{
+	color:blue;
+	cursor:pointer;
+}
+
+
+img{
+	width:12.5em;
+}
+
+.container h4{
+	position:absolute;
+	right:0em;
+	padding:10px;
+	bottom:110px;
+	color:red;
+	font-size:23px;
+}
+
+
+.container p{
+	position:absolute;
+	right:2.5em;
+	font-size:20px;
+	bottom:50px;
+	
+}
+
+.icon{
+	position:absolute;
+	right:7em;
+	font-size:15px;
+	bottom:10px;
+}
+
+
+.icon p{
+	position:absolute;
+	right:-3em;
+	bottom:3px;
+	font-size:11px;
+}
+
+
+
+
+.icon1{
+	position:absolute;
+	right:2em;
+	bottom:10px;
+	font-size:17px;
+}
+
+.icon1 p{
+	position:absolute;
+	right:-22px;
+	bottom:2px;
+	font-size:13px;
+}
+
+}
+
+
+
+
+
+
